@@ -1,0 +1,9 @@
+colors
+[
+  purple for nav = #240747 ;
+  orange for heading = #eb2632;
+  light pink = #f0ab8d ;
+  light wight = #f6e4ad ;
+  background: linear-gradient(rgb(38, 11, 59), 
+  rgba(91, 0, 113, 0.882));
+]
