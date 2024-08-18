@@ -1,13 +1,13 @@
 
-import './App.css'
-import About from './components/About'
-import Contact from './components/Contact'
-import Gellery from './components/Gellery'
-import Hero from './components/Hero'
-import Navbar from './components/Navbar'
-import Program from './components/Program'
-import Testominals from './components/Testominals'
-import Tittle from './components/Tittle'
+import '/App.css'
+import About from 'src/components/About'
+import Contact from 'src/components/Contact'
+import Gellery from 'src/components/Gellery'
+import Hero from 'src/components/Hero'
+import Navbar from 'src/components/Navbar'
+import Program from 'src/components/Program'
+import Testominals from 'src/components/Testominals'
+import Tittle from 'src/components/Tittle'
 
 function App() {
   
